@@ -1,0 +1,44 @@
+# === Java build outputs ===
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+target/
+
+# === Maven / Gradle wrappers ===
+.gradle/
+build/
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# === VS Code ===
+.vscode/*.log
+.vscode/*.bak
+.vscode/launch.json
+.vscode/settings.json
+
+# === Logs and temp ===
+*.log
+hs_err_pid*
+replay_pid*.log
+*~
+#*#
+*.swp
+*.swo
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# Windows
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# === Environment files ===
+.env
+.env.*
+!.env.example
