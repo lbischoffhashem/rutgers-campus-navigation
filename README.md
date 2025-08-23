@@ -12,9 +12,6 @@ A Java-based interactive mapping application for Rutgers University campuses, fe
 - [Usage](#usage)
 - [Input File Format](#input-file-format)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [License](#license)
 
 ## Overview
 
